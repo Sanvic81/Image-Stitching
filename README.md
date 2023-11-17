@@ -9,6 +9,4 @@ http://matthewalunbrown.com/autostitch/autostitch.html
 
 https://keponih.com/membuat-foto-panorama-dengan-photo-stitching/
 
-https://www.researchgate.net/figure/Flowchart-of-the-new-image-stitching-process_fig3_334158926
-
 https://journals.sagepub.com/doi/full/10.1177/1847979020980928
